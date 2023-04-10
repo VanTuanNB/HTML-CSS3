@@ -441,6 +441,7 @@ html ::-webkit-scrollbar-track {
   display: flex;
   align-items: center;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .main__information-buy-now {
@@ -453,6 +454,7 @@ html ::-webkit-scrollbar-track {
   font-weight: 600;
   cursor: pointer;
   margin-left: 20px;
+  text-decoration: none;
 }
 
 .main__information-order-add-cart-icon {
